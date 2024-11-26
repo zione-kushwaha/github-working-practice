@@ -1,6 +1,6 @@
 # program to find sum of all numbers in a list
 def sum_of_list(numbers):
-    print("sum funtion is called!!!")
+    print("sum funtion is called!!! edit by bishal")
     return sum(numbers)
 
 # Example usage
